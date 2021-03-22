@@ -8,7 +8,7 @@ Utilizando Gradlew no projeto da aula 1, tendo em vista que o gradlew já esta c
 # Procedimentos realizados:
 
 1 - Localizar a seguinte pasta pelo prompt de comando:
-´´´´C:\git\Gradle - Projetos Java com Gradle\Aula 1\01-Testing_Gradlew>´´´´´
+'''C:\git\Gradle - Projetos Java com Gradle\Aula 1\01-Testing_Gradlew>'''
 
 2 - Utilizar o comando ./gradlew ou gradlew
 
