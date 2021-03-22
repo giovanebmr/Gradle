@@ -10,7 +10,10 @@ Utilizando Gradlew no projeto da aula 1, tendo em vista que o gradlew já esta c
 1 - Localizar a seguinte pasta pelo prompt de comando:
 ``` C:\git\Gradle - Projetos Java com Gradle\Aula 1\01-Testing_Gradlew> ```
 
-2 - Utilizar o comando ./gradlew ou gradlew
+2 - Utilizar o seguinte comando para iniciar o gradlew
+```./gradlew``` 
+ou 
+```gradlew```
 
 3 - Exibindo a versão do gradlew utilizada no projeto
 ```gradlew --version```
