@@ -18,7 +18,7 @@ ou
 3 - Exibindo a versão do gradlew utilizada no projeto
 ```gradlew --version```
 
-4 - Exibindo as tasks ćonfiguradas
+4 - Exibindo as tasks configuradas
 ```gradlew tasks```
 
 5 - Testando a task "run"
