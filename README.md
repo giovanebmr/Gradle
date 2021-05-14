@@ -3,7 +3,7 @@ Curso de compilação e build com Gradle
 
 ## Aula 1
 
-Utilizando Gradlew no projeto da aula 1, tendo em vista que o gradlew já esta configurado neste projeto, dessa forma não houve a necessidade de fazar o dowload do Gradlew nativo.
+Utilizando Gradlew no projeto da aula 1, tendo em vista que o gradlew já está configurado neste projeto, dessa forma não houve a necessidade de fazer o dowload do Gradlew nativo.
 
 # Procedimentos realizados:
 
